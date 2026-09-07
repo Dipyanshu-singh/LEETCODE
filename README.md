@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0002-add-two-numbers) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
