@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0067-add-binary) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0067-add-binary) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
 |  |
@@ -61,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
