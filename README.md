@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0067-add-binary) |
+| [1108-defanging-an-ip-address](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [2942-find-words-containing-character](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2942-find-words-containing-character) |
 ## Simulation
 |  |
