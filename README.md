@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0067-add-binary) |
 | [0367-valid-perfect-square](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0367-valid-perfect-square) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3871-count-commas-in-range-ii](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0136-single-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
 |  |
