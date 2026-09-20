@@ -91,10 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2942-find-words-containing-character](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3330-find-the-original-typed-string-i](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3330-find-the-original-typed-string-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0067-add-binary) |
+| [3498-reverse-degree-of-a-string](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
