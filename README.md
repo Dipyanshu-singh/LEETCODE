@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0198-house-robber) |
 | [1480-running-sum-of-1d-array](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2574-left-and-right-sum-differences](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2942-find-words-containing-character) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Backtracking
 |  |
