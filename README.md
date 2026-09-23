@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0001-two-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0198-house-robber) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0001-two-sum) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Prefix Sum
