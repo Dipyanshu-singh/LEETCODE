@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1710-maximum-units-on-a-truck](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1710-maximum-units-on-a-truck) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0067-add-binary) |
 | [1688-count-of-matches-in-tournament](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
