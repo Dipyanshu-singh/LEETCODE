@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0067-add-binary) |
 | [0367-valid-perfect-square](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
