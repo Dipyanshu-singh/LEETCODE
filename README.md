@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0198-house-robber) |
 | [0349-intersection-of-two-arrays](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Prefix Sum
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0367-valid-perfect-square) |
 ## Stack
 |  |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1710-maximum-units-on-a-truck](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1710-maximum-units-on-a-truck) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -153,4 +157,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
