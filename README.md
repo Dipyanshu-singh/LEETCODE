@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3146-permutation-difference-between-two-strings) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Prefix Sum
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2942-find-words-containing-character](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2942-find-words-containing-character) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3146-permutation-difference-between-two-strings) |
 | [3330-find-the-original-typed-string-i](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3330-find-the-original-typed-string-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
