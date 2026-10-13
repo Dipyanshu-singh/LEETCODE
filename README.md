@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3838-weighted-word-mapping](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3838-weighted-word-mapping) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1710-maximum-units-on-a-truck) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1710-maximum-units-on-a-truck](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1710-maximum-units-on-a-truck) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Backtracking
 |  |
 | ------- |
