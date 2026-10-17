@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0067-add-binary) |
 | [0367-valid-perfect-square](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1108-defanging-an-ip-address) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
