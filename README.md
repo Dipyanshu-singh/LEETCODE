@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0067-add-binary) |
 | [0367-valid-perfect-square](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
