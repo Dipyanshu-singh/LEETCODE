@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0198-house-robber) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0198-house-robber) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1710-maximum-units-on-a-truck](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1710-maximum-units-on-a-truck) |
 | [2126-destroying-asteroids](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2126-destroying-asteroids) |
