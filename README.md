@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1816-truncate-sentence](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1816-truncate-sentence) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2278-percentage-of-letter-in-string) |
 | [2942-find-words-containing-character](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3838-weighted-word-mapping) |
