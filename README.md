@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1816-truncate-sentence) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2278-percentage-of-letter-in-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2942-find-words-containing-character](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3146-permutation-difference-between-two-strings) |
