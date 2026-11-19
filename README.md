@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2540-minimum-common-value](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2942-find-words-containing-character) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1710-maximum-units-on-a-truck) |
 | [2126-destroying-asteroids](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/1710-maximum-units-on-a-truck) |
 | [2126-destroying-asteroids](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dipyanshu-singh/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Backtracking
 |  |
